@@ -1,0 +1,13 @@
+<svg id="menu_1" data-name="menu 1" xmlns="http://www.w3.org/2000/svg" width="25" height="18.062" viewBox="0 0 12.5 9.031">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #2871cc;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <path id="Vector" class="cls-1" d="M146.979,45.76H135.521a0.521,0.521,0,1,1,0-1.042h11.458A0.521,0.521,0,1,1,146.979,45.76Z" transform="translate(-135 -40.719)"/>
+  <path id="Vector-2" data-name="Vector" class="cls-1" d="M146.979,41.767H135.521a0.521,0.521,0,1,1,0-1.042h11.458A0.521,0.521,0,1,1,146.979,41.767Z" transform="translate(-135 -40.719)"/>
+  <path id="Vector-3" data-name="Vector" class="cls-1" d="M146.979,49.753H135.521a0.521,0.521,0,1,1,0-1.042h11.458A0.521,0.521,0,1,1,146.979,49.753Z" transform="translate(-135 -40.719)"/>
+</svg>
